@@ -1,21 +1,22 @@
  Hi there 👋, I’m Hooria Adeel
 
 🎓 **Computer Science Student** at [UBIT, Department of Computer Science – University of Karachi (DCS KU)]
-💻 Currently in my **2nd semester**, exploring the world of programming and problem-solving.
+💻 Currently in my **3rd semester**, exploring the world of programming and problem-solving.
 🌱 My journey so far:
 
 * Studied **C language** in intermediate.
-* Currently learning **Object-Oriented Programming in Java**.
+* Explored **Object-Oriented Programming in Java**.
+* Currently learning **Data Structures and Algorithms in C++**.
 * Building a foundation in **Data Structures, Algorithms, and Software Development**.
 
 ---
 
 ## 🚀 Skills & Learning
 
-* **Languages:** C, Java (OOP),
-* **Core CS Concepts:** Object-Oriented Programming, Problem Solving
+* **Languages:** C++(DSA), Java (OOP), C Language
+* **Core CS Concepts:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving
 * **Tools & Platforms:** GitHub, VS Code, IntelliJ IDEA, Eclipse
-* **Currently Exploring:** Java projects, Data Structures & Algorithms
+* **Currently Exploring:** Stack projects, Data Structures & Algorithms, Cybersecurity
 
 ---
 
@@ -24,14 +25,15 @@
 *(More coming soon as I progress!)*
 
 * 🔹 Simple Java OOP Programs (Invoice system (Customer Cashier) etc.)
-* 🔹 C programming basics (arrays, loops, functions)
-* 🔹 Academic labs & assignments
+* 🔹 C programming basics 
+* 🔹 Data Structures in C++ 
+* 🔹 Academic labs, assignments and projects
 
 ---
 
 ## 🎯 Goals
 
-* Strengthen **Java & OOP** skills
+* Strengthen **C++ & DSA** skills
 * Start contributing to **open-source projects**
 * Work on **real-world projects** to build a strong portfolio
 
@@ -47,8 +49,5 @@
 
 ---
 
-⭐️ *“Every expert was once a beginner.”*
-
 ---
 
-Would you like me to also create a **shorter version** (just intro + skills + goals) that looks clean for recruiters, or do you want the **detailed one above** to showcase your learning journey?
